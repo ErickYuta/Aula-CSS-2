@@ -172,6 +172,7 @@ body{
     text-align: center;
     width: 500px;
     padding: 10px;
+    margin-bottom: 10px;
 }
 .formulario .botao{
     border: none;
